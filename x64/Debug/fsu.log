@@ -1,9 +1,0 @@
-﻿  config.cpp
-D:\Frozen5293.wiki\业余兴趣\fsu\config.cpp(15,79): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-D:\Frozen5293.wiki\业余兴趣\fsu\config.cpp(16,65): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-D:\Frozen5293.wiki\业余兴趣\fsu\config.cpp(22,67): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-D:\Frozen5293.wiki\业余兴趣\fsu\config.cpp(23,53): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-  include.hpp
-  main.cpp
-  正在生成代码...
-  fsu.vcxproj -> D:\Frozen5293.wiki\业余兴趣\fsu\x64\Debug\fsu.exe
