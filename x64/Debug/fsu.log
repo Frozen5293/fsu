@@ -1,0 +1,3 @@
+﻿  main.cpp
+main.obj : error LNK2019: 无法解析的外部符号 __imp_CredUIPromptForCredentialsW，函数 main 中引用了该符号
+D:\Frozen5293.wiki\业余兴趣\fsu\x64\Debug\fsu.exe : fatal error LNK1120: 1 个无法解析的外部命令
