@@ -16,8 +16,10 @@ int main(int n, char** parms)
 	ZeroMemory(tmpparms, MAX_PATH);
 
 	if (strcmp(cm.ConsoleExec, "wt")==0  || strcmp(cm.ConsoleExec, "wt.exe") == 0) {
-		strcat(tmpparms, "-w 0 -d ");
+		strcat(tmpparms, "-w 0 -d \"");
 		strcat(tmpparms, cm.PWD);
+		strcat(tmpparms, "\"");
+
 		if (strlen(cm.Commands) != 0) {
 			strcat(tmpparms, " ");
 			strcat(tmpparms, cm.Commands);
