@@ -63,9 +63,9 @@ fsu calc
  
 ## 已知问题
 命令太长会崩溃
-在wt终端中不能传递 -d -w</br>
+在wt终端中不能传递 -d </br>
 在pwsh中 不能传递-NoExit -wd -Command</br>
-在cmd中不能传递  -c -k</br>
+在cmd中不能传递  \c \k </br>
 ## 解决方法
 套娃
   fsu cmd cmd /c wt
