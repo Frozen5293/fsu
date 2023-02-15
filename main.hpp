@@ -23,6 +23,5 @@ public:
 		std::cout << "WorkDirectory: " << PWD << std::endl;
 		std::cout << "Command: " << ConsoleExec << std::endl;
 		std::cout << "Parms:" << Commands << std::endl;
-
 	}
 };
