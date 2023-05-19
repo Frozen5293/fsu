@@ -18,18 +18,21 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="config.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="include.hpp">
       <Filter>头文件</Filter>
     </ClCompile>
+    <ClCompile Include="Command.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RunAs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="config.hpp">
+    <ClInclude Include="RunAs.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="main.hpp">
+    <ClInclude Include="Command.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
